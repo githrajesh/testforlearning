@@ -1,4 +1,4 @@
-name: OWASP Scan integration with github
+name: OWASP Scan integration with github.
 
 on: [push]
 
